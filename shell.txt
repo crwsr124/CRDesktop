@@ -17,3 +17,7 @@ wget http://10.83.2.151:8080/aaa.jpg
 proxychains:
 vim /etc/proxychains.conf
 proxychains git clone https://github.com/shoutOutYangJie/Morph-UGATIT.git
+
+http.server:
+python3：python -m http.server 80
+python2：python -m SimpleHTTPServer 9004
