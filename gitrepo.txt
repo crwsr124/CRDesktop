@@ -1,0 +1,33 @@
+Training of GAN:
+https://my.oschina.net/u/4580321/blog/4750605(https://github.com/mit-han-lab/data-efficient-gans)
+https://spaces.ac.cn/archives/6110/comment-page-1(https://github.com/AlexiaJM/RelativisticGAN)
+
+
+
+Stylegan:
+https://github.com/rosinality/stylegan2-pytorch
+https://github.com/NVlabs/stylegan2-ada-pytorch
+https://github.com/NVlabs/stylegan3
+
+
+
+Image tanslation:
+https://github.com/znxlwm/UGATIT-pytorch
+https://github.com/shoutOutYangJie/Morph-UGATIT(https://zhuanlan.zhihu.com/p/348124048)
+https://github.com/mchong6/GANsNRoses
+
+
+Relight:
+https://github.com/zhhoper/DPR
+https://github.com/APikielny/image-relighting
+https://github.com/ken2576/nelf
+https://github.com/ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling
+
+
+Filter:
+https://github.com/Beta-y/Side_Window_Filtering
+
+
+Green Screen Matting:
+https://github.com/EpsAvlc/GreenScreenMatting
+
