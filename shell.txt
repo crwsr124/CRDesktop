@@ -1,0 +1,19 @@
+ffmepg压缩视频
+./ffmpeg -i 108108899-1-208.mp4  -r 5 output.mp4
+
+pip镜像
+pip3 install scipy -i https://pypi.mirrors.ustc.edu.cn/simple/
+
+
+后台运行：
+nohup python *.py &
+
+查看后台进程：
+ps -ef
+
+下载文件：
+wget http://10.83.2.151:8080/aaa.jpg
+
+proxychains:
+vim /etc/proxychains.conf
+proxychains git clone https://github.com/shoutOutYangJie/Morph-UGATIT.git
