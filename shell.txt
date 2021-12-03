@@ -11,6 +11,8 @@ nohup python *.py &
 查看后台进程：
 ps -ef
 
+传文件
+scp -r /Volumes/cr_s/CRDATA/A_256_bg cairui@10.82.0.7:/data/dataset/crdata/
 下载文件：
 wget http://10.83.2.151:8080/aaa.jpg
 
